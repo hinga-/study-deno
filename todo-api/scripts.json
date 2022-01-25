@@ -9,6 +9,7 @@
   },
   "allow": {
     "read": "./db",
+    "write": "./db",
     "env": true,
     "net": true
   },
